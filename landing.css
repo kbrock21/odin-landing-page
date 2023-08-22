@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: besley, serif;
+}
+.header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 8px;
+    gap: 16px;
+    background: #1f2937;
+}
+.logo {
+    color: #E5E7EB;
+}
+ul {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
+    list-style: none;
+    color: #F9faf8;
+}
+a {
+    text-decoration: none;
+    color:#E5E7EB;
+
+}

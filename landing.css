@@ -163,14 +163,25 @@ font-family: Roboto;
     align-items: center;
 }
 /*CTA section*/
-.cta {
-    background-color:#E5E7EB;
+.call {
+    background-color:#fff;
     width:100%;
 }
-.cta-contatiner {
+.call-contatiner {
     background-color: #3882f6;
+    margin: 50px 250px;
+    padding: 10px 80px;
+    display:flex;
+    align-items: center;
+    border-raduis: 5px;
+    text-align: center;
+    
 }
-
+.call-b {
+    display: flex;
+    justify-content: end;
+    
+}
 
 
 
